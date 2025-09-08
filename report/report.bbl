@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{key2}
+Olivier Billet, Henri Gilbert, and Charaf Ech-Chatbi.
+\newblock Cryptanalysis of a white box aes implementation.
+\newblock
+  \url{https://www.researchgate.net/publication/225241894_Cryptanalysis_of_a_White_Box_AES_Implementation},
+  2005.
+
+\bibitem{key1}
+J.A. Muir.
+\newblock A tutorial on white-box aes.
+\newblock \url{https://eprint.iacr.org/2013/104.pdf}, 2013.
+
+\bibitem{key}
+National~Institute of~Standards and Technology.
+\newblock Specification for the advanced encryption standard (aes).
+\newblock \url{https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf}, 2001.
+
+\end{thebibliography}
