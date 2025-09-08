@@ -5,13 +5,13 @@ This is an academic project on AES encryption and its Whitebox variant, carried 
 ## Objectives
 
 The project was divided into three main parts:
-1. Classical AES implementation
+1. **Classical AES implementation**
    - Development of a standard AES implementation (documented in the report).
    - Verification of correct encryption/decryption.
-2. Whitebox AES implementation
+2. **Whitebox AES implementation**
    - Construction of a whitebox AES following the method proposed by Chow et al.
    - Use of lookup tables with embedded keys.
-3. Attack on Whitebox AES
+3. **Attack on Whitebox AES**
    - Implementation of a possible attack on the whitebox AES.
    - Analysis of the results and discussion of weaknesses.
 
@@ -38,7 +38,7 @@ make attack
 ./attack_aes
 ```
 
-## Result
+## Results
 
 - The classical AES implementation behaves as expected.
 - The Whitebox AES implementation follows the construction proposed in Chow et al.’s paper.
