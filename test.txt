@@ -1,0 +1,4 @@
+make clean
+make
+./generate_whitebox 2b7e151628aed2a6abf7158809cf4f3c
+./whitebox 3243f6a8885a308d313198a2e0370734
