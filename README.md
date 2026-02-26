@@ -2,7 +2,7 @@
 
 This is an academic project on AES encryption and its Whitebox variant, carried out at the University of Bordeaux, France. 
 The project was developed in collaboration by:
-- **Madice**
+- **Madicce**
 - **zandicedev**
   
 Both contributors worked on implementation, documentation and testing as part of a joint academic effort.
