@@ -27,6 +27,8 @@ The project was divided into three main parts:
 ```bash
 ├── src/             # Source code (classical AES and Whitebox AES)
 ├── attacks/         # Attack scripts
+├── Makefile         # Build automation file to compile the project
+├── test.txt         # Example commands to build, generate and run the white-box AES
 ├── report.pdf       # Academic report
 └── README.md        # Project overview
 ```
